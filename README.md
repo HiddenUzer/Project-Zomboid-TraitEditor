@@ -1,6 +1,6 @@
 **Description**
 This mod for Project Zomboid allows players to add or remove character traits via the right-click context menu. With an intuitive interface, players can customize their survivor’s traits dynamically without needing to restart the game or edit save files.
-![Trait Editor MOD](https://i.ibb.co/4Z37g9N3/Trait-Editor-MOD-ezgif-com-video-to-gif-converter.gif)
+![Trait Editor MOD]([https://i.ibb.co/4Z37g9N3/Trait-Editor-MOD-ezgif-com-video-to-gif-converter.gif](https://imgur.com/a/GFtjcVI))
 
 **Features**
 Right-click context menu integration – Easily add or remove traits on the fly.
